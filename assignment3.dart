@@ -58,7 +58,7 @@ var Worldmap = {
   }
   };
 print(Worldmap);
-print(Worldmap["Pakistan"]);
+print(Worldmap["Pakistan"][2]);
 // Question no. 7
 Map<String, double> expenses = {
   'sun': 3000.0,
