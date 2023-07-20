@@ -55,6 +55,8 @@ if (primecheck.length <=2){
 }else{
   print("$no1 is not a prime no.");
 }
+// program to print the factorial of a number.
+
 int num1=5;
 int factorial=1;
 for(var i=num1; i>=1; i--){
@@ -209,7 +211,7 @@ if(inputt[i]>=5){
 }
 }
 print(newlist);
-
+// to print a vowel using for loop
 var word="program";
 var vowel="aeiou";
 int vowelcount=0;
